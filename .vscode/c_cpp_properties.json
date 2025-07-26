@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            // g++ 编译器路径
+            "compilerPath": "C:\\Program Files\\mingw64\\bin\\g++.exe",
+            // IntelliSense 模式：windows-gcc-x64
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+        }
+    ],
+    "version": 4
+}
